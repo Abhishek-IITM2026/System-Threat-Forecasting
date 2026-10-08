@@ -2,7 +2,10 @@
 
 Predicting Malware Infections Using Machine Learning and Advanced Feature Engineering
 
-![Kaggle Competition](https://www.kaggle.com/competitions/90791/images/header)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Kaggle](https://img.shields.io/badge/Kaggle-Competition-20BEFF)
+![Accuracy](https://img.shields.io/badge/Accuracy-0.6378-success)
 
 ## 📌 Project Overview
 
